@@ -1,0 +1,26 @@
+{
+  "name": "pageweb-node-express",
+  "version": "1.0.0",
+  "description": "pageWeb-node-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mau02ro/pageWeb-node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mau02ro/pageWeb-node-express/issues"
+  },
+  "homepage": "https://github.com/mau02ro/pageWeb-node-express#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
